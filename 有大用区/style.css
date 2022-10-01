@@ -1,0 +1,22 @@
+h1
+{
+    font-size: 200%;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+
+.word
+{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.one
+{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 10px;
+    padding: 10px;
+    border-style:dashed;
+     
+    
+}
